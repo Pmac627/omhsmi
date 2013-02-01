@@ -4,7 +4,7 @@ html {
 }
 
 body {
-	background: url('../images/main_background.png') repeat-y center;
+	background: url('../images/main_background.png') repeat-y;
 	font-size: 62.5%;
 }
 
@@ -18,7 +18,7 @@ address {
 	border: 1px dotted #3366FF;
 	background-color: rgba(0, 0, 255, 0.25);
 	max-width: 900px;
-	width: 100%;
+	width: 90%;
 }
 
 .box {
@@ -119,8 +119,9 @@ address {
 }
 
 .item-text {
-	width: 80%;
+	width: 79%;
 	float: left;
+	margin: 0 0 0 1%;
 }
 
 .item-img {
@@ -203,4 +204,122 @@ input.button {
 	font-style: italic;
 	color: #FFFFFF;
 	font-weight: bold;
+}
+
+@media all and (max-width: 480px) {
+	.frame {
+		width: 100%;
+	}
+
+	.title-box {
+		width: 90%;
+	}
+
+	.smi-subtitle {
+		font-size: 1.25em;
+	}
+
+	.smi-subtitle-larger {
+		font-size: 1.5em;
+	}
+
+	.omh-title {
+		font-size: 3em;
+	}
+
+	.smi-title {
+		font-size: 1.75em;
+	}
+	
+	.item-box {
+		width: 90%;
+		margin: 10px auto;
+	}
+
+	.item-text, .item-img {
+		width: 100%;
+		float: none;
+	}
+
+	.links-nav {
+		margin: 0 auto;
+		padding: 0;
+		-webkit-columns: 1;
+		-moz-columns: 1;
+		columns: 1;
+		font-size: 1.4em;
+	}
+}
+
+@media all and (min-width: 481px) and (max-width: 767px) {
+	.frame {
+		width: 100%;
+	}
+
+	.title-box {
+		width: 66.666667%;
+	}
+
+	.smi-subtitle {
+		font-size: 1.25em;
+	}
+
+	.smi-subtitle-larger {
+		font-size: 1.5em;
+	}
+
+	.item-text, .item-img {
+		width: 100%;
+		float: none;
+	}
+}
+
+@media all and (min-width: 768px) {
+	body {
+		background-position: 62px;
+	}
+
+	.smi-subtitle {
+		font-size: 1.25em;
+	}
+
+	.smi-subtitle-larger {
+		font-size: 1.5em;
+	}
+
+	.item-text {
+		float: left;
+		width: 75%;
+		margin-left: 5%;
+	}
+
+	.item-img {
+		float: left;
+	}
+}
+
+@media all and (min-width: 950px) {
+	.smi-subtitle {
+		font-size: 1.5em;
+	}
+
+	.smi-subtitle-larger {
+		font-size: 1.75em;
+	}
+
+	.item-text {
+		width: 77%;
+		margin-left: 3%;
+	}
+}
+
+@media all and (min-width: 1046px) {
+	body {
+		background-position: center;
+	}
+
+	.item-text {
+		width: 79%;
+		margin-left: 1%;
+	}
 }

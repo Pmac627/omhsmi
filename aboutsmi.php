@@ -1,6 +1,6 @@
 <?php /* aboutsmi.php */
 $page_title = "About SMI";
-
+$page_canonical = "aboutsmi";
 $extra_meta = "<meta name='robots' content='index,nofollow' />
 ";
 include('header.php'); ?>

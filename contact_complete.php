@@ -1,6 +1,6 @@
 <?php /* contact_complete.php */
 $page_title = "Message Sent";
-
+$page_canonical = "contact_complete";
 $extra_meta = "<meta http-equiv='Refresh' content='5; URL=/' />
 	<meta name='robots' content='noindex,nofollow' />
 ";
