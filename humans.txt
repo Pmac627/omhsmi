@@ -1,0 +1,30 @@
+# humanstxt.org/
+# The humans responsible, technology colophon & other site info
+
+# TEAM
+	Patrick MacMannis
+		Lead Developer/Designer
+		@pat_macmannis
+		http://www.macmannis.com/
+
+# TECHNOLOGY COLOPHON
+	#HTML5
+		MicroData (schema.org)
+	#CSS3
+	#JavaScript
+		Google Analytics
+
+# OTHER SITE INFO
+	#LAST UPDATE: 2013/02/01
+	#DOCTYPE: HTML5
+	#CONTENT TYPE: UTF-8
+	#LANGUAGE: English
+	#IDE
+		Notepad++
+	#VALIDATION:
+		W3C: Passed - http://validator.w3.org/check?uri=http%3A%2F%2Fwww.omhsmi.org%2F
+	#PERFORMANCE:
+		YSlow "V2": 100/100 - 2013/02/01
+		YSlow "Small Site or Blog": 100 - 2013/02/01
+		Google PageSpeed: 99/100 - 2013/02/01
+		Pingdom Time Test: 100/100 - 2013/02/01 (1.35s; 48.1kB; Faster Than 82%) - http://tools.pingdom.com/fpt/#!/gTjXmvMBN/http://www.omhsmi.org/
