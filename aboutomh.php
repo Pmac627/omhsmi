@@ -1,6 +1,6 @@
 <?php /* aboutomh.php */
 $page_title = "About OMH";
-
+$page_canonical = "aboutomh";
 $extra_meta = "<meta name='robots' content='index,nofollow' />
 ";
 include('header.php'); ?>

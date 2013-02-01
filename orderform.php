@@ -1,6 +1,6 @@
 <?php /* orderform.php */
 $page_title = "Order Form";
-
+$page_canonical = "orderform";
 $extra_meta = "<meta name='robots' content='index,nofollow' />
 ";
 include('header.php'); ?>

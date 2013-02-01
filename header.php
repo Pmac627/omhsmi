@@ -5,11 +5,17 @@
 	<meta name="keywords" content="first communion book,leechburg pa,jesus and i,catholic books,childrens jesus,smi,omh,omhsmi,smiomh,our mission house,sisters of mary immaculate" />
 	<meta name="description" content="Our Mission House Publications is run and operated by the Sisters of Mary Immaculate" />
 	<meta name="google-site-verification" content="-3lHZM8DzszlZBIZh5z2P_U-pEHD2DQBnlge0qFRonc" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<base href="http://www.omhsmi.org/" />
 	<?php echo $extra_meta; ?>
 	<title><?php echo $page_title; ?> - Our Mission House - Sisters of Mary Immaculate</title>
+	<link href="http://www.omhsmi.org/<?php echo $page_canonical; ?>" rel="canonical" />
 	<link rel="stylesheet" href="styles/styles.css" type="text/css" />
 	<link rel="shortcut icon" href="images/favicon.png" />
 	<link rel="icon" type="images/vnd.microsoft.icon" href="images/favicon.png" />
+    <link href="humans.txt" rel="author" />
 </head>
 <body>
 	<div class="frame" itemscope itemtype="http://schema.org/Organization">

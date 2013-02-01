@@ -1,7 +1,7 @@
 <?php
 // Connects to the database
-mysql_connect("localhost", "pmac627_omhsmi", "omhsmi101") or die(mysql_error());
-mysql_select_db("pmac627_omhsmi") or die(mysql_error());
+mysql_connect("localhost", "username", "password") or die(mysql_error());
+mysql_select_db("database") or die(mysql_error());
 if(isset($_POST['submit']))
 {
 	// if the submit button has been pressed...

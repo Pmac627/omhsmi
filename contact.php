@@ -1,6 +1,6 @@
 <?php /* contact.php */
 $page_title = "Contact Us";
-
+$page_canonical = "contact";
 $extra_meta = "<meta name='robots' content='index,nofollow' />
 ";
 include('header.php'); ?>
