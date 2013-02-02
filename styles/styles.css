@@ -206,6 +206,10 @@ input.button {
 	font-weight: bold;
 }
 
+.smi-footer a {
+	color: #FFFFFF;
+}
+
 @media all and (max-width: 480px) {
 	.frame {
 		width: 100%;
