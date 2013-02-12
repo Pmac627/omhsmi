@@ -16,7 +16,7 @@ include('header.php'); ?>
 				<h3 class="hightlight">Make Check Payable To:</h3>
 				<span itemprop="name">Sisters of Mary Immaculate</span><br /><br />
 				<h3 class="hightlight">Address</h3>
-				<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Our Mission House<br /><span  itemprop="streetAddress">118 Park Road<span><br /><span itemprop="addressLocality">Leechburg</span>, <span itemprop="addressRegion">PA</span> <span itemprop="postalCode">15656</span></address><br />
+				<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">Our Mission House<br /><span itemprop="streetAddress">118 Park Road</span><br /><span itemprop="addressLocality">Leechburg</span>, <span itemprop="addressRegion">PA</span> <span itemprop="postalCode">15656</span></address><br />
 				<h3 class="hightlight">Phone Number</h3>
 				<span itemprop="telephone">724-845-2828</span>
 			</div>
