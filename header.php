@@ -15,6 +15,11 @@
 	<link rel="stylesheet" href="styles/styles.css" type="text/css" />
 	<link rel="shortcut icon" href="images/favicon.png" />
 	<link rel="icon" type="images/vnd.microsoft.icon" href="images/favicon.png" />
+	<link sizes="57x57" href="images/omhsmicon-57.jpg" rel="apple-touch-icon" />
+	<link sizes="72x72" href="images/omhsmicon-72.jpg" rel="apple-touch-icon" />
+	<link sizes="114x114" href="images/omhsmicon-114.jpg" rel="apple-touch-icon" />
+	<link sizes="144x144" href="images/omhsmicon-144.jpg" rel="apple-touch-icon" />
+	<link href="images/omhsmicon.jpg" rel="image_src" />
     <link href="humans.txt" rel="author" />
 </head>
 <body>

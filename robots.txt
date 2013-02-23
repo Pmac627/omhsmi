@@ -1,7 +1,4 @@
 User-Agent: *
 Disallow: /cgi-bin/
-Disallow: /images/
-Disallow: /styles/
 Disallow: /docs/
-Disallow: /js/
 Disallow: google6f1841db4eb72b8d.html

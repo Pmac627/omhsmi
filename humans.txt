@@ -13,9 +13,10 @@
 	#CSS3
 	#JavaScript
 		Google Analytics
+		GoSquared Analytics
 
 # OTHER SITE INFO
-	#LAST UPDATE: 2013/02/12
+	#LAST UPDATE: 2013/02/23
 	#DOCTYPE: HTML5
 	#CONTENT TYPE: UTF-8
 	#LANGUAGE: English
@@ -27,4 +28,5 @@
 		YSlow "V2": 100/100 - 2013/02/01
 		YSlow "Small Site or Blog": 100 - 2013/02/01
 		Google PageSpeed: 99/100 - 2013/02/01
+		WooRank: 49.9% - 2013/02/23 -  http://bit.ly/Yt69QI
 		Pingdom Time Test: 100/100 - 2013/02/01 (1.35s; 48.1kB; Faster Than 82%) - http://tools.pingdom.com/fpt/#!/gTjXmvMBN/http://www.omhsmi.org/
