@@ -16,6 +16,7 @@ include('header.php'); ?>
 					Soft cover <span itemprop="width">5 in</span> x <span itemprop="height">8 in</span> - 48 pages. --  <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"><strong itemprop="price">$5.00</strong></span><br /><em>The proceeds from your purchase benefit our missions in India and Africa.</em>
 				</div>
 			</fieldset>
+			<?php /*
 			<fieldset class="item-box" itemprop="owns" itemscope itemtype="http://schema.org/Product">
 				<legend class="item-title" itemprop="name">My JESUS and I (Flip-Chart)</legend>
 				<div class="item-img">
@@ -37,7 +38,8 @@ include('header.php'); ?>
 					<hr class="item-hr" />
 					<span itemprop="offers" itemscope itemtype="http://schema.org/Offer"><strong itemprop="price">$2.75</strong></span><br /><em>The proceeds from your purchase benefit our missions in India and Africa.</em>
 				</div>
-			</fieldset>
+			</fieldset> */
+			?>
 			<fieldset class="item-box" itemprop="owns" itemscope itemtype="http://schema.org/Product">
 				<legend class="item-title" itemprop="name">My First Holy Communion</legend>
 				<div class="item-img">
@@ -49,6 +51,7 @@ include('header.php'); ?>
 					<span itemprop="width">5 in</span> x <span itemprop="height">7.25 in</span> - 116 pages -- <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"><strong itemprop="price">$10.00</strong></span><br /><em>The proceeds from your purchase benefit our missions in India and Africa.</em>
 				</div>
 			</fieldset>
+			<?php /*
 			<fieldset class="item-box" itemprop="owns" itemscope itemtype="http://schema.org/Product">
 				<legend class="item-title" itemprop="name">Our Catholic Faith</legend>
 				<div class="item-img">
@@ -59,7 +62,8 @@ include('header.php'); ?>
 					<hr class="item-hr" />
 					<span itemprop="width">7.25 in</span> x <span itemprop="height">10.5 in</span> - 524 pages text and illustrations in two colors-hardbound. -- <span itemprop="offers" itemscope itemtype="http://schema.org/Offer"><strong itemprop="price">$28.95</strong></span><br /><em>The proceeds from your purchase benefit our missions in India and Africa.</em>
 				</div>
-			</fieldset>
+			</fieldset> */
+			?>
 			<hr class="title-hr" /><br />
 			<fieldset class="item-box last">
 				<legend class="item-title">Like our Products?</legend>
